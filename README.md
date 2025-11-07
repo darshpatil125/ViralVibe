@@ -2,6 +2,8 @@
 
 **Tagline:** Upload. Choose Platform. Get Viral-Ready Caption + Hashtags + Strategy.  
 
+https://ai.studio/apps/drive/16DNdrqr0lwsghI7QDZHFh9yX50DCiZ0L
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)  
 [![Version](https://img.shields.io/badge/version-0.1.0-brightgreen.svg)](#)  
 [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](#)  
