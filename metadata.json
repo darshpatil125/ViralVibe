@@ -1,0 +1,5 @@
+{
+  "name": "Creator Assistant AI",
+  "description": "An AI-powered assistant to help content creators generate optimized social media posts. Upload your content (image, video, or text), select a platform, and get tailored captions, hashtags, and posting strategies.",
+  "requestFramePermissions": []
+}
